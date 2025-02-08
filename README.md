@@ -1,10 +1,15 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
-Project Category: Advanced
+# Spotify SQL Project and Query Optimization 
 
 
 
 
-## Overview
+## Project Overview
+
+Project Title: SQL Data Analysis and Query Optimization
+
+Database: SPOTIFY_SQL_PROJECT
+
+
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
 ```sql
