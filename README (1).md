@@ -167,7 +167,7 @@ WHERE
 GROUP BY
 	1
 ORDER BY
-	2DESC;
+	2 DESC;
 ```
 
 4. For each album, calculate the total views of all associated tracks.
